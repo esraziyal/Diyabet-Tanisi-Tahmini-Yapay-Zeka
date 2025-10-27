@@ -15,7 +15,8 @@ Bu proje, medikal veriler üzerinden diyabet riskini tahmin etmeye yönelik mode
 ## Nasıl Çalıştırılır?
 
 Projeyi Google Colab ortamında şu linkten açıp çalıştırabilirsiniz:  
-[Colab’da Aç](https://colab.research.google.com/github/esraziyal/Diyabet-Tanisi-Tahmini-Yapay-Zeka/blob/main/DIYABET_TANISI_PROJESİ_ipynb_adlı_not_defterinin_kopyası.ipynb)
+[Colab’da Aç](https://colab.research.google.com/github/esraziyal/Diyabet-Tanisi-Tahmini-Yapay-Zeka/blob/main/DIYABET_TANISI_PROJESI_ipynb_adli_not_defterinin_kopyasi.ipynb
+)
 
 ---
 
